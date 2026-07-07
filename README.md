@@ -39,10 +39,12 @@ Session.java
 Membership.java
 
 Device.java
+DeviceNode.java
 PlayStation.java
 PCStation.java
 VRStation.java
 
+Payable.java
 NoBalanceException.java
 ```
 
