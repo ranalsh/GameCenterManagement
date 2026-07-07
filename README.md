@@ -1,4 +1,4 @@
-# CSC113 Game Center Management System
+# Game Center Management System
 
 ## Overview
 
